@@ -1,0 +1,7 @@
+port: 8080
+environment: dev
+snowflake:
+  workerIdBits: 10 
+  sequenceBits: 12
+  
+
