@@ -3,5 +3,6 @@ environment: dev
 snowflake:
   workerIdBits: 10 
   sequenceBits: 12
-  
+  epoch: 1190332800000
+
 
